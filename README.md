@@ -1,3 +1,3 @@
-# Zhicheng-Guo
+#Zhicheng Guo
 Ph.D. candidate in Power Electrionics @ UT Austin
-#[Home](http://zcguo.com)
+[Home](http://zcguo.com)
