@@ -1,3 +1,2 @@
-# Zhicheng Guo
-Ph.D. candidate in Power Electronics @ UT Austin
-[Home](https://jerrryguo.github.io/Zhicheng-Guo/)
+# tyleransom.github.io
+Repository for Tyler Ransom's academic research website.
